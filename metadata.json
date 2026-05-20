@@ -1,0 +1,8 @@
+{
+  "name": "Rabaab - Royal Mughlai Luxury Dining",
+  "description": "An ultra-premium Mughlai & North Indian fine dining experience in Sector 5, Panchkula. Royal interiors, cinematic ambience, and authentic flavours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
